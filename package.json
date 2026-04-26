@@ -1,11 +1,7 @@
 {
-  "name": "express-hello-world",
+  "name": "vless-tunnel",
   "version": "1.0.0",
   "main": "server.js",
-  "repository": "https://github.com/fscarmen2/Argo-X-JS-PaaS",
-  "author": "fscarmen",
-  "license": "MIT",
-  "private": false,
   "scripts": {
     "start": "node server.js"
   },
@@ -16,6 +12,6 @@
     "basic-auth": "^2.0.1"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   }
 }
